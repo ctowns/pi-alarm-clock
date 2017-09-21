@@ -1,0 +1,7 @@
+Terminal 1:
+
+cd ~/Desktop/alexa-avs-sample-app/samples/companionService && npm start
+
+Terminal 2:
+
+cd ~/Desktop/alexa-avs-sample-app/samples/javaclient && mvn exec:exec

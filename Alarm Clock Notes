@@ -1,0 +1,1 @@
+/etc/rc.local has command to run AlarmClockStartup.sh which starts the clock display (and eventually Alexa also)
