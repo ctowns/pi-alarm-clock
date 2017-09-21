@@ -22,7 +22,7 @@ https://www.realvnc.com/en/raspberrypi/
 
 
 The Alexa client can be downloaded and installed by following the steps here:
-https://github.com/alexa/alexa-avs-sample-app
+https://github.com/alexa/alexa-avs-sample-app 
 I have it running on a Raspberry Pi 3 Model B with the wake word engine off. 
 You will need to create an Amazon Developer account to get authorization to use Amazon Voice Services for Alexa.
 
