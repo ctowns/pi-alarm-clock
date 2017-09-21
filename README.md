@@ -4,9 +4,12 @@ Raspberry Pi-powered Alarm Clock with Alexa Integration
 Materials: 
 1 - Raspberry Pi 3 Model B
 1 - Adafruit 0.56" 4-Digit 7-Segment Display w/I2C Backpack (any color)
-1 - USB Microphone (very small so it can fit within alarm clock box): https://www.amazon.com/gp/product/B00IR8R7WQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
-1 - Speaker so Alexa can talk back to you! Any speaker with a 3.5mm audio jack output will do, I use this: 808 CANZ Bluetooth Wireless Speaker - Silver (https://www.amazon.com/808-CANZ-Bluetooth-Wireless-Speaker/dp/B00EFS120A)
-2 - Push buttons, 1 for displaying temperature on 7-segment display, 1 for activating Alexa. I used these: https://www.amazon.com/gp/product/B0094GP7SQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+1 - USB Microphone (very small so it can fit within alarm clock box):
+https://www.amazon.com/gp/product/B00IR8R7WQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+1 - Speaker so Alexa can talk back to you! Any speaker with a 3.5mm audio jack output will do, I use this: 808 CANZ Bluetooth Wireless Speaker - Silver 
+(https://www.amazon.com/808-CANZ-Bluetooth-Wireless-Speaker/dp/B00EFS120A)
+2 - Push buttons, 1 for displaying temperature on 7-segment display, 1 for activating Alexa. I used these:
+https://www.amazon.com/gp/product/B0094GP7SQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
 Also, a soldering iron, some solder, and some wires will be needed for setting up the 7-segment display and soldering the buttons. If a soldering iron is unavailable, my mixtape is a viable alternative for producing the high tempertures needed to solder.
 
 --------------------------------------------------------------------------------------------------------------------------------------
