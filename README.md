@@ -1,7 +1,7 @@
 # pi-alarm-clock
 Raspberry Pi-powered Alarm Clock with Alexa Integration
 
-**Materials:**
+#**Materials:**
 
 1 - Raspberry Pi 3 Model B
 
@@ -33,7 +33,8 @@ I have it running on a Raspberry Pi 3 Model B with the wake word engine off.
 You will need to create an Amazon Developer account to get authorization to use Amazon Voice Services for Alexa.
 
 
-**To get 7-Segment Display to work:**
+#**To get 7-Segment Display to work:**
+
 The python library for controlling the 7-segment display can be found here:
 https://github.com/adafruit/Adafruit_Python_LED_Backpack
 This library must be in the same folder as the script that runs the 7-Segment Display in order for it to work.
@@ -44,7 +45,8 @@ This can be found here (or from nearly any electronics dealer):
 https://www.adafruit.com/product/879
 
 
-**To run at startup:**
+#**To run at startup:**
+
 /etc/rc.local has command to run AlarmClockStartup.sh which starts the clock display (and eventually Alexa also, but this is currently not working...if only someone with a bunch of Linux experience could help me...*cough cough* Andy...)
 
 
